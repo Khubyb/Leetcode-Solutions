@@ -182,4 +182,12 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
