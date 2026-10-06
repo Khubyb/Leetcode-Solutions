@@ -175,3 +175,11 @@ My long-term goals are to:
 
 * Build strong DSA fundamentals
 * Solve a wide range of Leet
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+<!---LeetCode Topics End-->
