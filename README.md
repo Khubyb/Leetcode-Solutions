@@ -211,10 +211,12 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,4 +225,13 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 <!---LeetCode Topics End-->
