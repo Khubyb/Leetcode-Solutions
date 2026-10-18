@@ -211,11 +211,13 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Breadth-First Search
@@ -226,6 +228,7 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
@@ -248,4 +251,5 @@ My long-term goals are to:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/Khubyb/Leetcode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
